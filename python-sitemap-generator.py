@@ -18,7 +18,7 @@ from urllib.parse import urlparse
 import email.utils as eut
 
 from pprint import pprint
-from var_dump import var_dump
+#from var_dump import var_dump
 from lxml import etree
 from lxml.html.soupparser import fromstring
 
